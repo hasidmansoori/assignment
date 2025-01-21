@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074126719635",
+    "project_id": "urban-culture-dbf62",
+    "storage_bucket": "urban-culture-dbf62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074126719635:android:0c5f58d698d1be14495b66",
+        "android_client_info": {
+          "package_name": "com.example.urbanculture.assignmenturbanculture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9E3HM-CkwPmcW66ZO83MKvQB6hmZfogw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
